@@ -268,7 +268,7 @@ def main():
    # if CracKing in ('0', '0'):
         #exit('THANKS FOR USING CYBER SINDHI TOOL')
     #if CracKing in ('8', '8'):
-        os.system('clear');print(banner);print(' Removing Token .');time.sleep(1);os.system('clear');print(banner);print(' Removing Token ..');time.sleep(1);os.system('clear');print(banner);print(' Removing Token ...');time.sleep(2);os.system('clear');print(banner);print('\033[1;91mToken Removed\033[0m');time.sleep(3);os.system('rm -rf access_token.txt'); version()
+        #os.system('clear');print(banner);print(' Removing Token .');time.sleep(1);os.system('clear');print(banner);print(' Removing Token ..');time.sleep(1);os.system('clear');print(banner);print(' Removing Token ...');time.sleep(2);os.system('clear');print(banner);print('\033[1;91mToken Removed\033[0m');time.sleep(3);os.system('rm -rf access_token.txt'); version()
     else:
     	print ('        Invalid Select')
     version()
